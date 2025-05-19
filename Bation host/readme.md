@@ -1,6 +1,6 @@
 # 🏗️ AWS Bastion Host Architecture with Terraform
 
-![Architecture Diagram](./aws-bastion-host.gif)
+![Architecture Diagram](./aws.gif)
 
 ## 📘 Overview
 
